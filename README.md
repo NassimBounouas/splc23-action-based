@@ -1,5 +1,7 @@
 # splc23-action-based-artifact
 
+[![DOI](https://zenodo.org/badge/661905910.svg)](https://zenodo.org/badge/latestdoi/661905910)
+
 ## Overview
 
 The code in this replication package constructs and executes the four scenarios presented in the paper. The core actions and their execution specific to the scenarios are respectively in files `core.pl` and `examples.pl`. The replicator should expect the code to run within less than 10 minutes if she has a working docker setup.
